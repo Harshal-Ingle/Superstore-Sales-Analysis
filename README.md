@@ -1,5 +1,3 @@
-# Superstore-Sales-Analysis
-
 # Superstore Sales Performance Analysis
 
 ## Objective
