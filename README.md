@@ -44,7 +44,6 @@ This project addresses the **need for data-driven decision-making** by analyzing
 - **Matplotlib & Seaborn**: Professional visualizations.  
 - **Data Analysis**: KPI calculation, profitability analysis, trend identification.  
 - **Business Intelligence (BI)**: Translating data into actionable insights.  
-- **GitHub**: Version control & documentation.  
 
 ---
 
